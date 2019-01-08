@@ -1,1 +1,2 @@
 # Movie-Store
+This is a desktop application that is used by the administratorto manage the movie store. It list the movies present in the store and the number of Combact disk of each movie. Movies are arranged according to their types such as Horror, Adventure, Action, Animation movies e.t.c. It allows users to be able to borrow and return a Combact Disk of a certain maovie. for one to borrow a movie, he or she should be a member.
